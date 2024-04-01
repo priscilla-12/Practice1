@@ -1,0 +1,37 @@
+Invoice
+INVOICE NUMBER: DATE OF ISSUE:
+00001 MM/DD/YYYY
+
+BILLED TO YOUR COMPANY NAME
+
+Client name Building name 123 Your + 1-541-754-3010
+123 Your Street Street City/State, Country you@email.co.uk
+City, State, Country Zip Code yourwebsite.co.uk
+Zip Code GSTIN
+Phone
+
+Description Unit cost QTY/HR Rate Amount
+
+Your item name $0.00 1 $0.00
+
+Your item name $0.00 1 $0.00
+
+Your item name $0.00 1 $0.00
+
+Your item name $0.00 1 $0.00
+
+Your item name $0.00 1 $0.00
+
+Your item name $0.00 1 $0.00
+
+Your item name $0.00 1 $0.00
+
+Your item name $0.00 1 $0.00
+
+Subtotal $0.00
+Discount $0.00
+Tax rate %
+Tax $0.00
+
+TERMS INVOICE TOTAL
+$0.00
